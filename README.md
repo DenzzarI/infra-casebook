@@ -16,7 +16,7 @@ in a home lab and documents how the solution was verified.
 
 | #  | Case | Stack | Status |
 |----|------|-------|--------|
-| 01 | CI for this repository | GitHub Actions, yamllint, gitleaks | ✅ Done |
+| 01 | [CI for this repository](01-repo-ci/) | GitHub Actions, yamllint, gitleaks | ✅ Done ||
 
 ## Case format
 
